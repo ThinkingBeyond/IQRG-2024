@@ -2,4 +2,4 @@
 
 # Optimization Problem for QAOA
 
-[Add an abstract for your project here]
+Combinatorial Optimization problems are often NP-hard and therefore hard to solve classically. To tackle this, the Quantum Approximate Optimization Algorithm (QAOA), a case of variational quantum eigensolver, was found, which gives approximate solutions to these problems. To implement the QAOA algorithm for Maxcut, we studied the general QUBO formulation and its similarity to the Ising model. We implemented the algorithm for a six-node Maxcut problem using Qiskit and obtained the expected solutions.
