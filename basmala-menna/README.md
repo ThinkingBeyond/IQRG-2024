@@ -5,9 +5,9 @@ The group members of this project are Basmala Sallam and Menna Zaied, mentored b
 # What is BETH dataset?
 BETH Dataset an open-source collection of high-quality cybersecurity data specifically curated for anomaly detection research. This rich dataset provides a realistic foundation for developing and testing innovative approaches to cybersecurity challenges.
 # What is VQC? and why did we choose it?
-The variational quantum classifiers (VQC) are quantum circuits that can be trained from labeled data to classify new data samples. \n
-We have chosen VQC because:
-1- VQC can handle high-dimensional feature spaces more efficiently. n\
-2- VQC has been shown to achieve higher accuracy than classical SVM on certain datasets, including those with complex relationships between features.
-3- VQC can capture Non-Linear Scalability.
-4- Quantum parallelism encoding (ZZfeaturemap).
+The variational quantum classifiers (VQC) are quantum circuits that can be trained from labeled data to classify new data samples. \
+We have chosen VQC because: \
+1- VQC can handle high-dimensional feature spaces more efficiently. \
+2- VQC has been shown to achieve higher accuracy than classical SVM on certain datasets, including those with complex relationships between features. \
+3- VQC can capture Non-Linear Scalability. \
+4- Quantum parallelism encoding (ZZfeaturemap). \
