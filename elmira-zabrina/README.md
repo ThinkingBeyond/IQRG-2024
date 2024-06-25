@@ -2,4 +2,5 @@
 
 # [Linear Search vs Grover's Search Algorithm]
 
-[In this project, we studied the complexity of a quantum algorithm (Grover) and a classical algorithm (Linear) to discover how they compare. Moreover, we used Python to write the code for them and understand their time-complexities.]
+[
+Searching is a fundamental operation in computer science, crucial in various applications from data retrieval to AI. This research project compares the efficiency of the classical Linear Search and the quantum-based Grover's Search Algorithm using Python and the package Qiskit. Linear Search, known for its simple and sequential approach, is effective for small or unsorted datasets. In contrast, Grover's algorithm leverages quantum superposition and amplitude amplification to achieve quadratic speedup, which demonstrates the vast potential of quantum computing.]
