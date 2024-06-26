@@ -2,4 +2,10 @@
 
 # Spotify Music recommendation based on Personality Traits - Quantum Machine Learning
 
-[Add an abstract for your project here]
+The purpose of this research project is to build a recommendation system using a Quantum Support Vector Machine (QSVM) and comparing its accuracy to that of classical Support Vector Machine (SVM) to come to a conclusion as to which one is best suited for this task. 
+
+The classical SVMs used for comparison are: 
+A polynomial SVM
+A linear SVM
+A radial basis function (RBF) SVM 
+A sigmoid SVM
