@@ -1,6 +1,6 @@
 ![IQRG Banner for Research Projects](../IQRG_Banner_Research_Projects_2024.png)
 
-# [Understanding Quantum Teleportation]
+# Understanding Quantum Teleportation
 
 In movies such as Star Trek, we often encounter the idea of teleportation, where an object is transported from one place to another. While this may seem impossible, scientist Charles Bennett and his team demonstrated in 1993 that teleportation is feasible, though not in the manner depicted in movies, but rather in the quantum world.
 
