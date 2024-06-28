@@ -1,5 +1,5 @@
 ![IQRG Banner for Research Projects](../IQRG_Banner_Research_Projects_2024.png)
 
-# [Add your Project name here]
+# [Quantum Computing Concepts with Qubit Manipulation]
 
-[Add an abstract for your project here]
+[The necessity of understanding the fundamentals of quantum computing, especially when desiring to work with them coding-wise is something that is of great significance. This research project was a study into the fundamental building blocks of quantum circuits: quantum logic gates. Throughout the research, we streamlined the process by focusing on these five logic gates: X-gate, H-gate, Y-gate, Z-gate, and CNOT(CX)-gate. We also sought to understand and display the many different ways to representing quantum circuits, quantum logic gates, and qubits in general. This becomes extremely important when wanting to express a more rigourous description of the mechanisms of the quantum circuit. Thus, this lead us onto other ways of representing the changes of state a qubit undergoes when a certain gate is applied. This can be expressed extremely plainly and simply, as well as efficiently, through the Bloch sphere. Furthermore, due to the ever growing interest in quantum computing as an industry, the need for those that are interested to have the very basics of quantum computer coding is becoming necessary. This research project aimed for everythinhg to be able to be understood in a comprehensive way as to understand the basics is to open up wider doors of quantum computing for you. ]
