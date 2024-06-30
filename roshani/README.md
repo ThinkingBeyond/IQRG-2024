@@ -1,6 +1,6 @@
 ![IQRG Banner for Research Projects](../IQRG_Banner_Research_Projects_2024.png)
 
-# [Spotify Music Recommendation System using Quantum Machine Learning]
+# Spotify Music Recommendation System using Quantum Machine Learning
 
 Spotify, the world's largest on-demand music service, is best known for its user experience, music recommendation that is constantly getting improved.
 
