@@ -23,3 +23,7 @@ The libraries `PennyLane`, `matplotlib` and `xyz_parse` will be needed. Addition
 ## Working with Aqora
 
 If you want, you can take part in the Aqora challenge to find the ground state energy of the $H_2$ molecule. You can follow the instructions [here](https://app.aqora.io/competitions/h2-groundstate-energy)
+
+## Poster
+
+> The research poster can be found in the [IQRG Proceedings 2024](https://thinkingbeyond.education/iqrg_proceedings_2024/)
