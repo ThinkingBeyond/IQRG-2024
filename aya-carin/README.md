@@ -7,3 +7,5 @@ From simple wooden devices to digital electronic computers to supercomputers, ph
 The ability to simulate and compute is enhanced by increasing the number of transistors, as their number directly affects processing and accuracy capability. According to Moore's Law, the maximum number of transistors in an integrated circuit doubles approximately every two years. As soon as it doubles, computer performance increases. However, there's a theoretical limit to the miniaturization of computing components. We can't make a transistor smaller than an atom! This is where quantum computing comes into play. 
 
 When Richard Feynman first proposed the notion of a quantum computer in 1982, his focus was on simulating quantum mechanical systems. To the best of our understanding, nature is not classical — it's quantum. And so, quantum computers may prove to be valuable tools for understanding it.
+
+> The research poster can be found in the [IQRG Proceedings 2024](https://thinkingbeyond.education/iqrg_proceedings_2024/)
