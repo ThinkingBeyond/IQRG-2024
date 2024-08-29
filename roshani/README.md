@@ -44,6 +44,8 @@ The predicted scores are analyzed.
 Songs with high positive scores are considered strong recommendations.
 These songs can then be suggested to the user based on their preference and listening history
 
+> The research poster can be found in the [IQRG Proceedings 2024](https://thinkingbeyond.education/iqrg_proceedings_2024/)
+> 
 References:
 Hurtado, A., Wagner, M. and Mundada, S., 2019. Thank you, Next: Using NLP Techniques to Predict Song Skips on Spotify based on Sequential User and Acoustic Data.
 Gori, M., & Pucci, R. (2020). Quantum Algorithms for Recommender Systems. IEEE Transactions on Quantum Engineering.
