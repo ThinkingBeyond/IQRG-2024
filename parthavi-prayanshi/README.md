@@ -3,3 +3,5 @@
 # Understanding Quantum Teleportation
 
 Quantum teleportation is the transfer of an unknown quantum state over long distances without actual physical transfer. This process works on the principles of entanglement. In this research project, we will review the quantum teleportation protocol, applications of quantum teleportation in secure communication, cryptography and quantum network. Along with this we also employed the quantum flytrap game to visualize the results.
+
+> The research poster can be found in the [IQRG Proceedings 2024](https://thinkingbeyond.education/iqrg_proceedings_2024/)
