@@ -12,3 +12,5 @@ We chose VQC because: \
 2- VQC has been shown to achieve higher accuracy than classical SVM on certain datasets, including those with complex relationships between features. \
 3- VQC can capture Non-Linear Scalability. \
 4- Quantum parallelism encoding (ZZfeaturemap). 
+
+> The research poster can be found in the [IQRG Proceedings 2024](https://thinkingbeyond.education/iqrg_proceedings_2024/)
