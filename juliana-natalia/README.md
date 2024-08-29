@@ -10,3 +10,4 @@ Quantum teleportation is crucial in quantum networks, as it guarantees secure co
 
 In this research project, the focus is on practical exploration of quantum teleportation through detailed coding.
 
+> The research poster can be found in the [IQRG Proceedings 2024](https://thinkingbeyond.education/iqrg_proceedings_2024/)
