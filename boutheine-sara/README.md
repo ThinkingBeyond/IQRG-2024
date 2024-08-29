@@ -36,3 +36,4 @@ This project uses classical and quantum machine learning to predict mobile phone
 
 This project aims to provide valuable insights to mobile phone manufacturers, retailers, and industry stakeholders for optimizing product development and marketing strategies based on advanced machine learning techniques.
 
+> The research poster can be found in the [IQRG Proceedings 2024](https://thinkingbeyond.education/iqrg_proceedings_2024/)
